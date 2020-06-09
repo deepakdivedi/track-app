@@ -25,4 +25,16 @@ To run application
 - After setting up track-server successfully install dependices for tracks app.
 - Use command npm start to run application.
   
+ Screen Shots
+ - Sign Up
+    ![](SignUp.png)
+  
+ - Sign In
+    ![](SignIn.png)
+    
+ - Tracks
+    ![](tracks.png)
+    
+ - Create Track
+    ![](createTrack.png)
 
