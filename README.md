@@ -19,6 +19,7 @@ To run application
 - Download this repository
 - Download track-server repository
 - Use ngrok for running track-server
+- To run ngrok command is ngrok http portnumber
 - Register on cloud.mongodb.com and create your key which will be used for mongodb access.
 - Create two collections on mongo for user and locations.
 - After setting up track-server successfully install dependices for tracks app.
