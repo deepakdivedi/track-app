@@ -23,5 +23,5 @@ To run application
 - Create two collections on mongo for user and locations.
 - After setting up track-server successfully install dependices for tracks app.
 - Use command npm start to run application.
-
+  
 
